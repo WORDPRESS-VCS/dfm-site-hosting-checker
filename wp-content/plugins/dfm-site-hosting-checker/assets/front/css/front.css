@@ -1,0 +1,80 @@
+#XDfmSHC_bmi_bmr_form {
+  padding: 2%;
+  border: 1px solid #dcd7ca;
+}
+
+#XDfmSHC_bmi_bmr_form table {
+  margin: 0px;
+  width: 100%;
+}
+
+#XDfmSHC_bmi_bmr_form label {
+  display: block;
+  font-size: 16px;
+}
+
+#XDfmSHC_bmi_bmr_form input {
+  max-width: 100% !important;
+  height: 35px;
+  width: 100%;
+}
+
+#XDfmSHC_bmi_bmr_form select {
+  width: 100% !important;
+  height: 35px;
+}
+
+#XDfmSHC_bmi_bmr_form option {
+  width: 100% !important;
+  height: 35px;
+}
+
+#XDfmSHC_bmi_bmr_form button {
+  width: 100% !important;
+  padding: 3%;
+  margin: 0px;
+}
+
+#XDfmSHC_bmi_bmr_form .dimentions {
+  width: 25%;
+}
+
+#XDfmSHC_table table,
+th,
+td {
+  border: 0px solid white !important;
+}
+
+#XDfmSHC_bmi_result td {
+  border: 1px solid #dcd7ca !important;
+}
+
+#XDfmSHC_bmi_condition td {
+  border: 1px solid #dcd7ca !important;
+}
+
+div#XDfmSHC_bmi_result {
+  text-align: center;
+}
+
+div#XDfmSHC_bmi_condition {
+  text-align: center;
+}
+
+div#XDfmSHC_bmi_condition img {
+  height: auto;
+  /* margin-left: 20px; */
+  width: 25px;
+}
+
+.XDfmSHC_bmi_bmr_date {
+  float: right;
+}
+
+.XDfmSHC_unknow_message {
+  text-align: center;
+}
+
+a.XDfmSHC_bmi_bmr_change_name {
+  float: right !important;
+}

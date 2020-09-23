@@ -1,0 +1,16 @@
+/**
+ *
+ * @author Xplantr Ltd. -- https://khalifalmahmud.com/ --
+ * @package upAutomation
+ *
+ */
+/*Elementor*/
+.elementor-control-title {
+  font-weight: 700 !important;
+  color: #d30c5c !important;
+  font-family: cursive !important;
+}
+
+#elementor-toast {
+  display: none !important;
+}

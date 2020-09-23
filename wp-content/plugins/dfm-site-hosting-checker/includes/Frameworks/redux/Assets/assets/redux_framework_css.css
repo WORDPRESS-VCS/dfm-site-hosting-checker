@@ -1,0 +1,218 @@
+/**
+ *
+ * @author Xplantr Ltd. -- https://khalifalmahmud.com/ --
+ * @package XDfmSHC
+ *
+ */
+div#wpwrap {
+  background-color: white !important;
+}
+
+.redux-main {
+  background-color: white !important;
+}
+
+#screen-meta-links {
+  display: none;
+}
+
+div#redux-sub-footer {
+  display: none !important;
+}
+
+div#redux-intro-text {
+  display: none !important;
+}
+
+div#wpfooter {
+  display: none !important;
+}
+
+div#redux-share {
+  display: none !important;
+}
+
+div.redux-dev-mode-notice-container {
+  display: none !important;
+}
+
+div.redux-timer {
+  display: none !important;
+}
+
+div.updated redux-message redux-notice notice is-dismissible redux-notice {
+  display: none !important;
+}
+
+div.redux-message redux-notice notice is-dismissible redux-notice {
+  display: none !important;
+}
+
+div.redux-notice notice is-dismissible redux-notice {
+  display: none !important;
+}
+
+div.notice is-dismissible redux-notice {
+  display: none !important;
+}
+
+div.is-dismissible redux-notice {
+  display: none !important;
+}
+
+div.redux-notice {
+  display: none !important;
+}
+
+div.rAds {
+  display: none !important;
+}
+
+.redux-sidebar .redux-group-tab-link-a i {
+  display: none !important;
+  border-radius: 0px !important;
+}
+
+span.group_title {
+  padding: 6px 12px;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 24px;
+  text-decoration: none;
+  border-radius: 0px !important;
+}
+
+#redux-header > .display_header {
+  border-radius: 0px !important;
+  text-align: left !important;
+  line-height: 30px !important;
+}
+
+#redux-header > .display_header > h2 > a {
+  border-radius: 0px !important;
+  text-decoration: none !important;
+}
+
+.redux-container span.add-on {
+  border-radius: 0px !important;
+  padding: 10px !important;
+}
+
+.redux-container input[type="text"] {
+  border-radius: 0px !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.redux-container input[type="password"] {
+  border-radius: 0px !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.redux-container input[type="number"] {
+  border-radius: 0px !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.redux-container input[type="submit"] {
+  border-radius: 0px !important;
+  /*padding: 10px !important;*/
+  border-radius: 0px !important;
+  margin-bottom: 10px !important;
+}
+
+.redux-container input[type="checkbox"] {
+  border-radius: 0px !important;
+  padding: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.redux-container input[type="checkbox"]:checked:before {
+  border-radius: 0px !important;
+  content: "\f147" !important;
+  margin: -20px 0 0 -21px !important;
+  color: #1e8cbe !important;
+  font-size: 40px !important;
+}
+
+.redux-container button.button.wp-color-result {
+  border-radius: 0px !important;
+  padding: 30px !important;
+  padding-bottom: 50px !important;
+}
+
+.redux-container .sp-preview {
+  border-radius: 0px !important;
+  padding: 30px !important;
+}
+
+.redux-container .redux-select-item > a {
+  border-radius: 0px !important;
+  padding: 12px !important;
+}
+
+.redux-container a.select2-choice {
+  border-radius: 0px !important;
+  padding: 7px !important;
+}
+
+.redux-container input.button {
+  border-radius: 0px !important;
+  height: 37px !important;
+  border-bottom: none;
+}
+
+.redux-container li.select2-search-choice {
+  border-radius: 0px !important;
+  padding: 12px !important;
+  margin-bottom: 2px !important;
+}
+
+.redux-container th {
+  padding-left: 50px !important;
+}
+
+#opt-typography-body > div {
+  margin: 5px !important;
+  padding: 5px !important;
+}
+
+#opt-typography > div {
+  margin: 5px !important;
+  padding: 5px !important;
+}
+
+.redux-container .group_title {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+span.tgm_theme_name_css {
+  color: fuchsia;
+}
+
+span.require_red {
+  color: red;
+}
+
+.redux-main #redux-sticky #info_bar {
+  height: 44px;
+}
+
+.redux-container #info_bar {
+  background: white !important;
+}
+
+#redux-footer {
+  background: white !important;
+}
+
+.redux-sidebar {
+  background-color: white !important;
+}
+
+form#redux-form-wrapper {
+  background-color: white !important;
+}

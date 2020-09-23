@@ -1,0 +1,22 @@
+{
+  "name": "khalifalmahmud/khalifalmahmud.info",
+  "description": "Description of the plugin.",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Xplantr Ltd.",
+      "email": "khalifmahmud9625@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "KHALIF\\XDfmSHC\\INCLUDES\\": "includes/",
+      "KHALIF\\XDfmSHC\\ACTIONS\\ACTIVATION\\": "actions/activation/",
+      "KHALIF\\XDfmSHC\\ACTIONS\\DEACTIVATION\\": "actions/deactivation/"
+    },
+    "files": []
+  }
+}

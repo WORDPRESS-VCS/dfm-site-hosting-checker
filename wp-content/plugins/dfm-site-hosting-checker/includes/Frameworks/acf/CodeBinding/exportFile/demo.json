@@ -1,0 +1,193 @@
+[
+  {
+    "key": "group_5d5b9b724627d",
+    "title": "XDfmSHC <br>By <a href=\"https://khalifalmahmud.com/\">Xplantr Ltd.</a>",
+    "fields": [
+      {
+        "key": "field_5d5bb9c7572b0",
+        "label": "Gutenberg Editor",
+        "name": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "left",
+        "endpoint": 1
+      },
+      {
+        "key": "field_5d5bb6399d25d",
+        "label": "",
+        "name": "gutenberg_editor_123",
+        "type": "radio",
+        "instructions": "Gutenberg Editor Off / On",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "choices": ["Enable", "Disable"],
+        "allow_null": 0,
+        "other_choice": 0,
+        "default_value": 1,
+        "layout": "vertical",
+        "return_format": "label",
+        "save_other_choice": 0
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "options_page",
+          "operator": "==",
+          "value": "_a_starter__theme-general-settings"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "Description"
+  },
+  {
+    "key": "group_5d5ce72fd3ecc",
+    "title": ":::::::::: Extra Information For This Page ::::::::::",
+    "fields": [
+      {
+        "key": "field_5d5ce730260fb",
+        "label": "Tab 1",
+        "name": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": [
+          [
+            {
+              "operator": "",
+              "value": "",
+              "field": null
+            }
+          ]
+        ],
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_5d5ce73026140",
+        "label": "Text",
+        "name": "text11",
+        "type": "text",
+        "instructions": "text Instruction here",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Text Default value Here",
+        "placeholder": "Text Placeholder Here",
+        "prepend": "",
+        "append": "",
+        "maxlength": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "page"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": ""
+  },
+  {
+    "key": "group_5d5cdda4abe01",
+    "title": ":::::::::: Extra Information For This Post ::::::::::",
+    "fields": [
+      {
+        "key": "field_5d5cde096cf98",
+        "label": "Tab 1",
+        "name": "",
+        "type": "tab",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": [
+          [
+            {
+              "operator": "",
+              "value": ""
+            }
+          ]
+        ],
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "placement": "top",
+        "endpoint": 0
+      },
+      {
+        "key": "field_5d5ce66780424",
+        "label": "Text",
+        "name": "text1",
+        "type": "text",
+        "instructions": "text Instruction here",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "default_value": "Text Default value Here",
+        "placeholder": "Text Placeholder Here",
+        "prepend": "",
+        "append": "",
+        "maxlength": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "post"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": ""
+  }
+]
